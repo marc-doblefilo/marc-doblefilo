@@ -1,7 +1,7 @@
 ### Hi there 👋 Marc here
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marc_doblefilo)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodr%C3%ADguez-moreno-8b1441195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BayNf4TBXTPKnRuNNIQtmFw%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-rodr%C3%ADguez-8b1441195/)
 
 <!--
 **marc-doblefilo/marc-doblefilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
